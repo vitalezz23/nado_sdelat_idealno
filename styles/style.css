@@ -36,7 +36,7 @@ h1 {
     width: 739px;
     height: 408px;
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
     font-size: 116px;
     font-style: normal;
     font-weight: 800;
@@ -75,7 +75,7 @@ h1:hover::before {
     height: 158px;
     padding: 36px 44px;
     color: #000;
-    font-family: Raleway ;
+    font-family: Raleway,Arial, Helvetica, sans-serif ;
     font-size: 35px;
     font-style: normal;
     font-weight: 400;
